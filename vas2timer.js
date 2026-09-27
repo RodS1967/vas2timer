@@ -138,23 +138,23 @@ $(document).ready(function () {
 
   	// initialize Felmsboss-object
 	var FelmsWarning50Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-classic-alarm-3beeps.wav"
+		"_sounds/mixkit-classic-alarm-3beeps.wav"
 	);
   
 	var FelmsWarning85Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-classic-alarm-5beeps.wav"
+		"_sounds/mixkit-classic-alarm-5beeps.wav"
 	);
   
 	var FelmsWarning95Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-classic-alarm-995.wav"
+		"_sounds/mixkit-classic-alarm-995.wav"
 	);
   
 	var FelmsBackAudio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-wild-raven-bird-calling-62.wav"
+		"_sounds/mixkit-wild-raven-bird-calling-62.wav"
 	);
 	
 	var FelmsDownAudio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-creaking-cartoon-bird-calling-11.wav"
+		"_sounds/mixkit-creaking-cartoon-bird-calling-11.wav"
 	);
 	
   var FelmsBoss = new Bosstimer(
@@ -183,25 +183,25 @@ $(document).ready(function () {
 
 	// initialize Llothisboss-object
 	var LlothisWarning50Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-clock-countdown-bleeps-2beeps.wav"
+		"_sounds/mixkit-clock-countdown-bleeps-2beeps.wav"
 	);
   
 	// initialize Llothisboss-object
 	var LlothisWarning85Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-clock-countdown-bleeps-3beeps.wav"
+		"_sounds/mixkit-clock-countdown-bleeps-3beeps.wav"
 	);
   
 	// initialize Llothisboss-object
 	var LlothisWarning95Audio = new Audio(
-		"http://www.teamrodzilla.com/_sounds/mixkit-clock-countdown-bleeps-916.wav"
+		"_sounds/mixkit-clock-countdown-bleeps-916.wav"
 	);
   
 	var LlothisBackAudio = new Audio(
-	    "http://www.teamrodzilla.com/_sounds/mixkit-annoyed-big-dog-barking-51.wav"
+	    "_sounds/mixkit-annoyed-big-dog-barking-51.wav"
 	);
   
 	var LlothisDownAudio = new Audio(
-	    "http://www.teamrodzilla.com/_sounds/mixkit-dog-whimper-really-sad-468.wav"
+	    "_sounds/mixkit-dog-whimper-really-sad-468.wav"
 	);
   
   var LlothisBoss = new Bosstimer(
