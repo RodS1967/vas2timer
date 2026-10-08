@@ -1,0 +1,4 @@
+# index.php has no actual PHP code in it (pure HTML served through a .php extension),
+# which gives GitHub's language-detection tool (Linguist) nothing to disambiguate it from
+# Hack (a close syntactic relative of PHP) -- force the correct classification.
+*.php linguist-language=PHP
